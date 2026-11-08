@@ -1,0 +1,9 @@
+Package: TempConvAllYC
+Title: Temperature Conversion Among Fahrenheit, Celsius, and Kelvin
+Version: 0.1.0
+Authors@R: person("Yixuan", "Chen", role = c("aut", "cre"), email = "cheny31@vcu.edu")
+Description: Provides six functions for converting temperatures among Fahrenheit, Celsius, and Kelvin scales.
+License: MIT
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.1.1
